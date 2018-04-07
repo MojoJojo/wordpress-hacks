@@ -1,0 +1,1 @@
+This repository is a collection of various exploits that were executed on our or our client's blog. Also includes an explanation and a possible fix/recovery solution for the compromised wordpress blog. This is purely for educational purposes.
